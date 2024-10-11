@@ -1,4 +1,3 @@
-using Xunit;
 using SD.pesel;
 
 public class PersonIdTests
